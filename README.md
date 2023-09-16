@@ -1,3 +1,3 @@
-# Rate Zahl 1.5
+# Game Engine 0.0.1
 
-Simples Zahlen raten als MVC Pattern
+Simple Game Engine as MVC Pattern.

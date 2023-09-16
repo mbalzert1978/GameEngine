@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "rate-zahl"
+name = "GameEngine"
 version = "0.1.0"
 description = ""
 authors = ["Markus Iorio <mbalzert@gmail.com>"]
